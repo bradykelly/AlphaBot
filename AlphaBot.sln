@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaBot.Cli", "AlphaBot.Cli\AlphaBot.Cli.csproj", "{D87C530F-1C33-4758-B644-50E782569BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaBot.Core", "AlphaBot.Bot\AlphaBot.Core.csproj", "{C834593D-CEC0-4003-9C4A-23C3F4D75F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87C530F-1C33-4758-B644-50E782569BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87C530F-1C33-4758-B644-50E782569BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87C530F-1C33-4758-B644-50E782569BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87C530F-1C33-4758-B644-50E782569BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C834593D-CEC0-4003-9C4A-23C3F4D75F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C834593D-CEC0-4003-9C4A-23C3F4D75F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C834593D-CEC0-4003-9C4A-23C3F4D75F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C834593D-CEC0-4003-9C4A-23C3F4D75F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BA3443E-2AB1-4888-9101-22926FF541F1}
+	EndGlobalSection
+EndGlobal
